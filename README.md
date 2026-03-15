@@ -3,7 +3,7 @@
 **`Desenvolvedor .NET`**
 
 
-### Me chamo Felipe Takeshi Nishimura, tenho 20 anos e sou de Jundiaí-SP. Sou desenvolvedor .NET com formação em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações utilizando C#, .NET e SQL Server. Sou apaixonado por tecnologia e inovação e sempre busco aprender e evoluir.
+### Me chamo Felipe Takeshi Nishimura, tenho 20 anos e sou de Jundiaí-SP. Sou desenvolvedor .NET em desenvolvimento para me tornar Dev Full Stack, com formação em Análise e Desenvolvimento de Sistemas, com experiência prática no desenvolvimento de aplicações utilizando C#, .NET e SQL Server. Sou apaixonado por tecnologia e inovação e sempre busco aprender e evoluir.
 
 ---
 
