@@ -12,11 +12,9 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 
 ## 🧠 O que eu faço?
 
-<br>
-💻 Desenvolvimento **Backend** 
-⚡ Otimização de **Performance** 
+💻 Desenvolvimento **Backend** <br> /> 
+⚡ Otimização de **Performance** <br> />
 🔗 **Automação e integração** de sistemas
-/>
 
 ---
 
