@@ -7,7 +7,7 @@
 
 ---
 
-### 🧠 O que eu faço?
+## 🧠 O que eu faço?
 
 -   Desenvolvedor focado em Backend
 -   Otimizador de Perfomance
@@ -15,7 +15,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 ### Frontend
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <img 
     align="left" 
