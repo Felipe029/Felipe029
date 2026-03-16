@@ -51,9 +51,9 @@
 
 <img 
     align="left" 
-    alt="Top Languages"
+    alt="Top Langs"
     height="200px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&langs_count=7" 
 />
 
 
