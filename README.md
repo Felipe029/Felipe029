@@ -12,9 +12,9 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 
 ## 🧠 O que eu faço?
 
-- Desenvolvedor focado em **Backend**
-- Otimização de **performance de aplicações**
-- **Automação** de processos e integrações
+💻 Desenvolvimento **Backend**
+⚡ Otimização de **Performance**
+🔗 **Automação e integração** de sistemas
 
 ---
 
