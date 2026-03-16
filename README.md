@@ -39,12 +39,11 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Felipe029&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&layout=compact&theme=tokyonight&custom_title=Tecnologias"/>
-</div>
+<img 
+    align="left" 
+    height="200px" 
+    src="https://streak-stats.demolab.com?user=Felipe029&theme=tokyonight&locale=pt-br" 
+/>
 
 
 
