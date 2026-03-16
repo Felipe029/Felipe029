@@ -2,29 +2,30 @@
 
 ### `Desenvolvedor .NET`
 
-Me chamo **Felipe Takeshi Nishimura**, tenho 20 anos e sou de **Jundiaí - SP**.  
-Sou desenvolvedor **.NET** em evolução para me tornar **Full Stack**, formado em **Análise e Desenvolvimento de Sistemas**, com experiência prática no desenvolvimento de aplicações utilizando **C#, .NET e SQL Server**.
+Olá! Me chamo **Felipe Takeshi Nishimura**, tenho 20 anos e sou de **Jundiaí - SP**.
 
-Sou apaixonado por **tecnologia, desenvolvimento de software e inovação**, sempre buscando aprender, evoluir e construir soluções eficientes.
+Sou desenvolvedor **.NET em formação para me tornar um Dev Full Stack**, com formação em **Análise e Desenvolvimento de Sistemas** e experiência prática no desenvolvimento de aplicações utilizando **C#, .NET e SQL Server**.
 
----
-
-# 🧠 O que eu faço?
-
-- 💻 Desenvolvimento **Backend**
-- ⚡ Otimização de **Performance**
-- 🔗 **Automação e integração** de sistemas
+Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprender, evoluir e desenvolver soluções eficientes**.
 
 ---
 
-# 🤖 Linguagens e Tecnologias
+## 🧠 O que eu faço?
 
-## Frontend
+- Desenvolvedor focado em **Backend**
+- Otimização de **performance de aplicações**
+- **Automação** de processos e integrações
+
+---
+
+## 🤖 Linguagens e Tecnologias
+
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-## Backend
+### Backend
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -33,7 +34,7 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e inovação**, sem
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
-## DevOps & Tools
+### DevOps & Tools
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -41,12 +42,21 @@ Sou apaixonado por **tecnologia, desenvolvimento de software e inovação**, sem
 
 ---
 
-# 📊 Estatísticas
+## 📊 Estatísticas
 
-<div align="center">
+<img 
+    align="left" 
+    alt="GitHub Stats"
+    height="200px" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Felipe029&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe029&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+<img 
+    align="left" 
+    alt="Top Languages"
+    height="200px" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7"/>
-
-</div>
+<br clear="both"/>
