@@ -4,7 +4,7 @@
 
 Olá! Me chamo **Felipe Takeshi Nishimura**, tenho 20 anos e sou de **Jundiaí - SP**.
 
-Sou desenvolvedor **.NET em evolução para me tornar **Full Stack**, com formação em **Análise e Desenvolvimento de Sistemas** e experiência prática no desenvolvimento de aplicações utilizando **C#, .NET e SQL Server**.
+Sou desenvolvedor **.NET** em evolução para me tornar **Full Stack**, com formação em **Análise e Desenvolvimento de Sistemas** e experiência prática no desenvolvimento de aplicações utilizando **C#, .NET e SQL Server**.
 
 Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprender, evoluir e desenvolver soluções eficientes**.
 
