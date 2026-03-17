@@ -48,7 +48,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
     align="left" 
     alt="GitHub Stats"
     height="100px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=Felipe029&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
 
