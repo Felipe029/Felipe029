@@ -44,8 +44,6 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 
 ## 📊 Estatísticas
 
-<div
-    
 <img 
     align="left" 
     alt="GitHub Stats"
@@ -60,8 +58,6 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
     height="200px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
-
-</div>
 
 #
 
