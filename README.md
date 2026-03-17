@@ -44,6 +44,8 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 
 ## 📊 Estatísticas
 
+<div
+    
 <img 
     align="left" 
     alt="GitHub Stats"
