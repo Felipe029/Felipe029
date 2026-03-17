@@ -10,7 +10,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 
 ---
 
-<p 🧠 O que eu faço? </p>
+<p style="text-transform: uppercase;"> 🧠 O que eu faço?</p>
 
 - 💻 Desenvolvimento **Backend**
 - ⚡ Otimização de **Performance**
