@@ -60,3 +60,11 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 />
 
 <br clear="both"/>
+
+#
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe029/Felipe029/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe029/Felipe029/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Felipe029/Felipe029/output/github-contribution-grid-snake.svg">
+</picture>
