@@ -45,7 +45,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 ## 📊 Estatísticas
 
 <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats"
     height="200px" 
     style="padding-right: 10px;" 
@@ -53,7 +53,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 />
 
 <img 
-    align="center" 
+    align="left" 
     alt="Top Languages"
     height="200px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
