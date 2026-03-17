@@ -59,7 +59,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
 
-<br clear="both" />
+</div>
 
 #
 
