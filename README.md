@@ -47,7 +47,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 <img 
     align="left" 
     alt="GitHub Stats"
-    height="150px" 
+    height="180px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Felipe029&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
@@ -55,7 +55,7 @@ Sou apaixonado por **tecnologia e inovação** e estou sempre buscando **aprende
 <img 
     align="left" 
     alt="Top Languages"
-    height="150px" 
+    height="180px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe029&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7" 
 />
 
